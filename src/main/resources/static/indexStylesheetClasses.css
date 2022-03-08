@@ -11,7 +11,7 @@
 }
 
 .defaultBackgroundContent2{
-    background-image: url("templates/CSS/Madspild 2 index.jpeg");
+    background-image: url("../templates/CSS/Madspild 2 index.jpeg");
     background-repeat: no-repeat;
     display: flex;
     justify-content: end;
